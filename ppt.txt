@@ -1,0 +1,21 @@
+NavBar
+intro/about page
+Gallery 
+Table,
+Form, 
+faq,
+audio,
+video,
+Map,
+Contact Details.
+
+JS functionality 
+1.Form VALIDATION.(Describe)
+2.Accordian.(Describe)
+
+CSS
+1.Section based selection,
+2.Generalized colours
+3.Dummy text
+
+Describe HTML structure,and basics
