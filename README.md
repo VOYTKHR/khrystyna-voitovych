@@ -1,2 +1,2 @@
-# khrystyna-voitovych
+# khrystyna-voytovych
 Personal Website
